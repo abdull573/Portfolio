@@ -40,7 +40,7 @@ All information is in the human-readable HTML markup inside `index.html`.
 1. Open `index.html` using a text editor (such as VS Code, Notepad++, or Sublime Text).
 2. Use the search function (`Ctrl + F` or `Cmd + F`) to find the content you want to modify:
    - **Name**: Search for `Abdullah Satti` and replace it.
-   - **Title**: Search for `Software Quality Assurance Intern` and edit the text.
+   - **Title**: Search for `Software Quality Assurance Engineer` and edit the text.
    - **Location**: Search for `Islamabad, Pakistan` and edit.
    - **Skills**: Add or remove `<li>` elements inside `<ul class="skills-list">` tags.
    - **Projects**: Edit titles and descriptions inside the `<article class="project-card">` tags.
